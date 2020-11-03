@@ -2,6 +2,7 @@
   <th class="md-table-head" :id="id" :class="headClasses" :style="headStyles" @click="changeSort">
     <div class="md-table-head-container" v-if="$slots.default">
       <div class="md-table-head-label">
+        +
         <slot />
       </div>
     </div>

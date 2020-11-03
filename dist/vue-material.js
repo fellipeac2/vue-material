@@ -1,5 +1,5 @@
 /*!
- * vue-material vv1.0.0-beta-16
+ * vue-material v1.0.0-test
  * Made with <3 by marcosmoura 2020
  * Released under the MIT License.
  */
@@ -13141,6 +13141,7 @@ var _MdResizeObserver2 = _interopRequireDefault(_MdResizeObserver);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+//
 //
 //
 //
@@ -33377,7 +33378,7 @@ var render = function() {
             _c(
               "div",
               { staticClass: "md-table-head-label" },
-              [_vm._t("default")],
+              [_vm._v("\n      +\n      "), _vm._t("default")],
               2
             )
           ])
