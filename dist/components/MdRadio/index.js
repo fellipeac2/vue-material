@@ -1,5 +1,5 @@
 /*!
- * @fellipeac2/vue-material v1.0.0-test
+ * @fellipeac2/vue-material v1.0.0-test3
  * Made with <3 by undefined 2020
  * Released under the MIT License.
  */
