@@ -1,12 +1,9 @@
 {
-  "name": "vue-material",
+  "name": "@fellipeac2/vue-material",
   "description": "Material Design for Vue.js",
   "version": "1.0.0-test2",
   "license": "MIT",
-  "author": {
-    "name": "marcosmoura",
-    "email": "marcosvmmoura@gmail.com"
-  },
+  "author": "marcosmoura <marcosvmmoura@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vuematerial/vue-material.git"
@@ -172,5 +169,10 @@
   },
   "browserslist": [
     "> 1%"
-  ]
+  ],
+  "homepage": "https://github.com/vuematerial/vue-material#readme",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  }
 }

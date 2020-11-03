@@ -1,6 +1,6 @@
 /*!
- * vue-material v1.0.0-test2
- * Made with <3 by marcosmoura 2020
+ * @fellipeac2/vue-material v1.0.0-test
+ * Made with <3 by undefined 2020
  * Released under the MIT License.
  */
 (function webpackUniversalModuleDefinition(root, factory) {
@@ -9,9 +9,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define(["vue"], factory);
 	else if(typeof exports === 'object')
-		exports["VueMaterial"] = factory(require("vue"));
+		exports["@fellipeac2VueMaterial"] = factory(require("vue"));
 	else
-		root["VueMaterial"] = factory(root["Vue"]);
+		root["@fellipeac2VueMaterial"] = factory(root["Vue"]);
 })(typeof self !== 'undefined' ? self : this, function(__WEBPACK_EXTERNAL_MODULE_8__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
