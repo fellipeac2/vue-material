@@ -47,7 +47,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 
 
   echo "\n${YELLOW}Publishing a new release... ${NC}"
-  git push origin refs/tags/v$VERSION
+  #git push origin refs/tags/v$VERSION
   git push
   npm publish
 

@@ -1,5 +1,5 @@
-<a name="1.0.0-beta-16"></a>
-# [1.0.0-beta-16](https://github.com/vuematerial/vue-material/compare/v1.0.0-beta-15...v1.0.0-beta-16) (2020-11-03)
+<a name="1.0.0-test"></a>
+# [1.0.0-test](https://github.com/vuematerial/vue-material/compare/v1.0.0-beta-15...v1.0.0-test) (2020-11-03)
 
 
 
