@@ -1057,7 +1057,7 @@ exports.default = {
       this.clearField();
     },
     isInvalidValue: function isInvalidValue() {
-      return this.$el.validity.badInput;
+      return this.$el.validity ? this.$el.validity.badInput : false;
     },
     setFieldValue: function setFieldValue() {
       this.MdField.value = this.model;
