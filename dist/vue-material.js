@@ -1,5 +1,5 @@
 /*!
- * vue-material v1.0.0-beta-15
+ * vue-material vv1.1.0
  * Made with <3 by marcosmoura 2020
  * Released under the MIT License.
  */
@@ -33377,7 +33377,7 @@ var render = function() {
             _c(
               "div",
               { staticClass: "md-table-head-label" },
-              [_vm._t("default")],
+              [_vm._v(" = \n      "), _vm._t("default")],
               2
             )
           ])
